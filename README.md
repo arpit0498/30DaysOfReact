@@ -9,3 +9,5 @@ Thirty days react challenge
 ### Code
 
 <a href="./DAY_01/language converter/"> Code link</a>
+
+<img src="./DAY_01/assets/language.gif"> Converter</img>
