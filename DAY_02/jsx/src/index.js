@@ -4,7 +4,7 @@ import ReactDOM from 'react-dom';
 
 
 function getButtonText() {
-  return "Click on me!";
+  return "submit";
 }
 
 // create a react component 
