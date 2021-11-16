@@ -40,3 +40,24 @@ Today completed  <code>section #3</code> of the course .
 ### Cousre
 
 <a href="https://www.udemy.com/course/react-redux/"> Udemy course link</a>
+
+
+## Day 4
+Our final app is that tells user the current season in their location based on the location of user and the month given by them.
+
+    Learnings:>
+    class functions
+    geolocation api
+    semantic UI
+
+Today completed half part of the app in which we take location of user as input . 
+
+<img src="./DAY_04/Assets/ssapp.png">Screen shot</img>
+
+### Code
+
+<a href="./DAY_04/"> Code link</a>
+
+### Cousre
+
+<a href="https://www.udemy.com/course/react-redux/"> Udemy course link</a>
