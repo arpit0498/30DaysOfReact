@@ -56,7 +56,7 @@ Today completed half part of the app in which we take location of user as input 
 
 ### Code
 
-<a href="./DAY_04/"> Code link</a>
+<a href="./DAY_04/"> Code link Day 4</a>
 
 ### Cousre
 
