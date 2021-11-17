@@ -48,7 +48,6 @@ Our final app is that tells user the current season in their location based on t
     Learnings:>
     class functions
     geolocation api
-    semantic UI
 
 Today completed half part of the app in which we take location of user as input . 
 
@@ -61,3 +60,5 @@ Today completed half part of the app in which we take location of user as input 
 ### Cousre
 
 <a href="https://www.udemy.com/course/react-redux/"> Udemy course link</a>
+
+## Day 5
