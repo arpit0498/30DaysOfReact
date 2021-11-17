@@ -13,17 +13,25 @@ class App extends React.Component{
             //we did not!!!
             //this.state.lat=position.cords.latitude
         },
-        (err) => console.log(err)
+        (err) =>{
+            this.setState({errorMessage:err.message});
+        }
     );
     }
 
     //react says we have to define render
     render(){
       
-        return<div>Latitude:{this.state.lat}</div>;
+        return(
+        <div>
+            Latitude:{this.state.lat}    
+        <br/>    
+            Error:{this.state.errorMessage}
+        </div>
+        );
     }
 }
 
 ReactDOM.render (
     <App /> , document.querySelector('#root')
-)
+);
