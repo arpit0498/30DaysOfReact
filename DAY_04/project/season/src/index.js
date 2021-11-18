@@ -4,19 +4,18 @@ class App extends React.Component{
     constructor(props){
       super(props);
     //This is the only time we do direct assignment to this.state
-      this.state ={lat: null};
-        window.navigator.geolocation.getCurrentPosition(
-        (position) => {
-            //we called setState
-            this.setState({lat:position.coords.latitude});
+      this.state ={lat: null, errorMessage: ''};
+      
+    }
 
-            //we did not!!!
-            //this.state.lat=position.cords.latitude
-        },
-        (err) =>{
-            this.setState({errorMessage:err.message});
-        }
+    componentDidMount(){
+          window.navigator.geolocation.getCurrentPosition(
+        (position) => this.setState({lat:position.coords.latitude})
+        ,
+        (err) => this.setState({errorMessage:err.message})
+        
     );
+
     }
 
     //react says we have to define render
