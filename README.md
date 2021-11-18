@@ -61,4 +61,4 @@ Today completed half part of the app in which we take location of user as input 
 
 <a href="https://www.udemy.com/course/react-redux/"> Udemy course link</a>
 
-## Day 5
+## Day 5 & 6 
