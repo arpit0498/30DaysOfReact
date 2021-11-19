@@ -61,6 +61,20 @@ Today completed half part of the app in which we take location of user as input 
 
 <a href="https://www.udemy.com/course/react-redux/"> Udemy course link</a>
 
-## Day 5 & 6 
+## Day 5, 6 & 7
 
     Lifecycle methods
+    React states 
+    class component
+    function components
+
+Completed the app 
+
+<img src="./DAY_04/Assets/photo6100330724583387007.jpg">App challenge </img>
+
+<img src="./DAY_04/Assets/projectapps.gif">
+
+### Code
+
+<a href="./DAY_04/"> Code link </a>
+
