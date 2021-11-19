@@ -28,12 +28,9 @@ const SeasonDisplay = props => {
 
     return( 
     <div className={`season-display ${season}`}>
-      <i className="massive snowflake icon" />
-
-
-        <i className={`massive ${iconName}icon`} ></i>
+        <i className={`massive ${iconName} icon`} ></i>
          <h1>{text}</h1>
-        <i className={`massive ${iconName}icon`} />
+        <i className={`massive ${iconName} icon`} />
     </div>
     );
 };
