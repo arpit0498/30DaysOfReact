@@ -78,3 +78,16 @@ Completed the app
 
 <a href="./DAY_04/"> Code link </a>
 
+## Day 8
+
+App challenge 
+
+<img src="./DAY_08/Assets/appchallenges.jpg"> </img>
+
+We have to figure out how to solve the above problems .
+
+
+Diagram view of the app 
+<img src="./DAY_08/Assets/v1implementation.jpg">View </img>
+
+This diagram shows the basic view of the app that we are going to create.
