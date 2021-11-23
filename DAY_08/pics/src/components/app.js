@@ -22,7 +22,7 @@ class App extends React.Component {
         return(
             <div className="ui container" style={{marginTop:'20px'}}>
                 <SearchBar onSubmit={this.onSearchSubmit} />
-                <ImageList />
+                <ImageList images={this.state.images} />
             </div>
         );
     }
