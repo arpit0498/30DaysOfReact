@@ -91,3 +91,27 @@ Diagram view of the app
 <img src="./DAY_08/Assets/v1implementation.jpg">View </img>
 
 This diagram shows the basic view of the app that we are going to create.
+
+## Day 9- Day 11
+
+<a href="./DAY_08/pics/README.md">Day 9- day 11</a>
+
+
+completed the app challenge v1 and v2 implementation
+
+<img src="./DAY_08/Assets/v1implementation.jpg"></img>
+in the first part we just have to fetch image from the API and display them on the screen
+
+
+<img src="./DAY_08/Assets/V2implementation.jpg"></img>
+
+During the v2 implementation we have to display images in proper orientation . we have used js and css grid for that. 
+
+
+<img src="./DAY_08/Assets/picsAppgif.gif">completed project</img>
+
+Small gif of the project is attached .
+
+### Code
+
+<a href="./DAY_08/pics/"> project Code link</a>
