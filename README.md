@@ -115,3 +115,7 @@ Small gif of the project is attached .
 ### Code
 
 <a href="./DAY_08/pics/"> project Code link</a>
+
+## Day 12
+
+        learn basics of hooks
