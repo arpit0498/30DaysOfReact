@@ -119,6 +119,9 @@ Small gif of the project is attached .
 ## Day 12
 
         learn basics of hooks
+        useState
+        useEffect
+        useRef
 
 ## Day 13
     started first project on hooks
