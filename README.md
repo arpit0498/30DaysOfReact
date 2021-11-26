@@ -127,3 +127,8 @@ Small gif of the project is attached .
     started first project on hooks
 
 ## Day 14
+    Hooks are away to write reusable cod, instead of more classic technique like inheritance
+
+completed first part of the project i:e Accordion widget
+
+<img src="./DAY_13/Assets/accordionWidget.gif">Accordion widget</img>
