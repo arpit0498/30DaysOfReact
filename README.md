@@ -135,4 +135,6 @@ completed first part of the project i:e Accordion widget
 
 ## Day 15
 
-part 
+completed search part of the app
+
+<img src="./DAY_13/Assets/apifetch.gif"> </img>
