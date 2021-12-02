@@ -138,3 +138,10 @@ completed first part of the project i:e Accordion widget
 completed search part of the app
 
 <img src="./DAY_13/Assets/apifetch.gif"> </img>
+
+## Day 16 
+completed all four parts of the app
+
+<img src="./DAY_13/Assets/toggledropdown.gif"> Toggle down</img>
+
+<img src="./DAY_13/Assets/language.gif"> Language translator</img>
