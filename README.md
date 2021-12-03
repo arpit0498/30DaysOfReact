@@ -145,3 +145,9 @@ completed all four parts of the app
 <img src="./DAY_13/Assets/toggledropdown.gif"> Toggle down</img>
 
 <img src="./DAY_13/Assets/language.gif"> Language translator</img>
+
+# Day 17
+
+completed the app along with navigation
+
+<img src="./DAY_13/Assets/project.gif"> project</img>
