@@ -153,3 +153,5 @@ completed the app along with navigation
 <img src="./DAY_13/Assets/project.gif"> project</img>
 
 ## Day 18
+
+Started front end web development with react 
