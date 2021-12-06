@@ -154,4 +154,8 @@ completed the app along with navigation
 
 ## Day 18
 
-Started front end web development with react 
+Started front end web development with react  
+
+## Day 19 
+
+Completed first week of the coursera Front end web development with react.  
