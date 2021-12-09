@@ -159,3 +159,11 @@ Started front end web development with react
 ## Day 19 
 
 Completed first week of the coursera Front end web development with react.  
+
+## Day 20 
+
+Started 2nd week of the course 
+
+
+
+
