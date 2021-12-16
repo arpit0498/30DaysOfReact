@@ -5,15 +5,35 @@
 
 
 
-> You can still use react all by itself but using redux library make it easier .
+> You can still use react all by itself. But using redux library make it easier .
 
 
 # redux cycle
 
 <img src="./Assets/reduxCycle.jpg"> Redux cycle</img>
 
+
+
 # App Structure and basic idea
 
-<img src="./Assets/insCompany.jpg">Insurance company</img>
+Build an insurance company
 
-<img src="./Assets/flowchartCompany.jpg">Flow chart of the app</img>
+
+
+<img src="./Assets/insCompany.jpg">basic idea of Insurance company</img>
+
+<img src="./Assets/flowchartCompany.jpg">Flow chart of the idea</img>
+
+
+<img src ="./Assets/policyDepartment.jpg"></img>
+
+<img src ="./Assets/policyManagement.jpg"></img>
+
+<img src ="./Assets/viewManage.jpg"></img>
+<img src ="./Assets/Form.jpg"></img>
+<img src ="./Assets/formAnalogy.jpg"></img>
+<img src ="./Assets/claimAnalogy.jpg"></img>
+<img src ="./Assets/policiesAnalogy.jpg"></img>
+
+<img src ="./Assets/AccountingAnalogy.jpg"></img>
+<img src ="./Assets/reduxWRTCompany.jpg"></img>
