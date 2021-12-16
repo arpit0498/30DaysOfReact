@@ -37,3 +37,9 @@ Build an insurance company
 
 <img src ="./Assets/AccountingAnalogy.jpg"></img>
 <img src ="./Assets/reduxWRTCompany.jpg"></img>
+
+<img src="./Assets/project.png"></img>
+
+
+Completed the implementation of the app
+<a href="https://codepen.io/arpit0498-the-vuer/pen/NWapejW?editors=0011">Code Pen link </a>

@@ -1,4 +1,4 @@
-# 30DaysOfReact
+i# 30DaysOfReact
 
 Thirty days react challenge
 
@@ -193,6 +193,18 @@ completed off the assignment .
 
 </ul>
 
+
+
+# Day 23
+created the basic insurance company logic idea using redux 
+<a src="./DAY_23/DAY_23.md"> Day 23 Full analogy of the app</a>
+
+<a href="https://codepen.io/arpit0498-the-vuer/pen/NWapejW?editors=0011">Code Pen link </a>
+
+
+<img src="./DAY_23/Assets/viewManage.jpg">Basic analogy of the app</img>
+
+<img src="./DAY_23/Assets/project.png">Implemented code Pen</img>
 
 
 
