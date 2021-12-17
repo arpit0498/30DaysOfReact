@@ -197,7 +197,7 @@ completed off the assignment .
 
 # Day 23
 created the basic insurance company logic idea using redux 
-<a src="./DAY_23/DAY_23.md"> Day 23 Full analogy of the app</a>
+<a href="./DAY_23/DAY_23.md"> Day 23 Full analogy of the app</a>
 
 <a href="https://codepen.io/arpit0498-the-vuer/pen/NWapejW?editors=0011">Code Pen link </a>
 
