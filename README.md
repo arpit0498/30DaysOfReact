@@ -208,3 +208,12 @@ created the basic insurance company logic idea using redux
 
 
 
+# Day 24
+
+Learn more about redux and started building new app with redux in local directory
+
+<img src="./DAY_24/Assets/analogy pics/songs.jpg"></img>
+
+<a hreef="./DAY_24/songs/">Day 24 code</a>
+<a href="./DAY_24/DAY24.md"> Day 24 </a>
+
