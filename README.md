@@ -217,3 +217,7 @@ Learn more about redux and started building new app with redux in local director
 <a hreef="./DAY_24/songs/">Day 24 code</a>
 <a href="./DAY_24/DAY24.md"> Day 24 </a>
 
+# Day 25 
+completed the song app . Learn more about the action , reducer and connect function
+
+<img src="./DAY_24/Assets/songProject.gif"></img>
