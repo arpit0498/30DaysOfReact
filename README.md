@@ -224,3 +224,8 @@ completed the song app . Learn more about the action , reducer and connect funct
 
 
 # Day 26
+
+Learn about Async actions using Redux
+
+<img src="./DAY_26/Assets/appLook.jpg"><img>
+
