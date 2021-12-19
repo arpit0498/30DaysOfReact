@@ -221,3 +221,6 @@ Learn more about redux and started building new app with redux in local director
 completed the song app . Learn more about the action , reducer and connect function
 
 <img src="./DAY_24/Assets/songProject.gif"></img>
+
+
+# Day 26
