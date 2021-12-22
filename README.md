@@ -229,3 +229,10 @@ Learn about Async actions using Redux
 
 <img src="./DAY_26/Assets/appLook.jpg"><img>
 
+# Day 27 
+
+half way up in the progress of app
+
+<a href="./DAY_26/day27.md">Day 27 analogy</a>
+
+<a href="./DAY_26/"> Day 27 code link</a>
