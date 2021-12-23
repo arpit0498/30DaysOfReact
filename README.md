@@ -236,3 +236,5 @@ half way up in the progress of app
 <a href="./DAY_26/day27.md">Day 27 analogy</a>
 
 <a href="./DAY_26/"> Day 27 code link</a>
+
+# Day 28
