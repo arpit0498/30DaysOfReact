@@ -237,4 +237,8 @@ half way up in the progress of app
 
 <a href="./DAY_26/"> Day 27 code link</a>
 
-# Day 28
+# Day 28 & Day 29
+
+Learn about redux Thunk
+
+<img src="./DAY_26/Assets/reduxThunk.jpg"></img>
