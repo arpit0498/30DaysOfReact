@@ -245,3 +245,10 @@ Learn about redux Thunk
 
 # Day 30
 
+
+<img src="./DAY_26/Assets/8.goodbad.jpg"></img>
+
+
+
+completed the blog post app
+<img src="./DAY_26/Assets/project.gif"></img>
