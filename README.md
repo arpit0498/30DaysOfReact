@@ -242,3 +242,6 @@ half way up in the progress of app
 Learn about redux Thunk
 
 <img src="./DAY_26/Assets/reduxThunk.jpg"></img>
+
+# Day 30
+
